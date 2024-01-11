@@ -10,6 +10,8 @@ git status
 git diff
 git log
 
-git branch
-git checkout -b <branch_name>
+git branch                          # list branches
+git branch <branch_name>            # create branch
+git branch -d <branch_name>         # delete branch
+git checkout -b <branch_name>       # create branch, checkout branch
 ```
